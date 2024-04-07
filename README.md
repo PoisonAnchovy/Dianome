@@ -15,7 +15,7 @@ API para controlar os entregadores
 °Inicialize
 
 # Acesso
-°Abra o um gerenciador de API, como o Postman
+°Abra um gerenciador de API, como o Postman
 
 # Utilização
 Para incluir um entregador
